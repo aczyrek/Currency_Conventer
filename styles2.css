@@ -1,0 +1,21 @@
+.currency-converter__label {
+    font-family: 'Merriweather', serif;
+    font-size: 1.2rem;
+    margin-bottom: 5px;
+    margin-left: 10px;
+
+
+}
+
+.currency-converter__button{
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 1.2rem;
+    padding: 10px;
+    background-color: #16d9e3;
+    color: white;
+    cursor: pointer;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
