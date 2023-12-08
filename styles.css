@@ -11,14 +11,17 @@ html {
 }
 
 body {
-    background-image: radial-gradient(circle 248px at center, #16d9e3 0%, #30c7ec 47%, #46aef7 100%);
+   background-image: url('currency-converter-plus-banner.width-720.jpg');
+    background-size: cover;
+    font-family: 'Lato', sans-serif;
+
 }
 
 .currency-converter {
     background-color: #fff;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
-    margin: 5% auto;
+    margin: 2% auto;
     max-width: 500px;
     padding: 30px 50px;
     width: 100%;
